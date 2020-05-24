@@ -147,7 +147,23 @@ of the
 posterior
 surface of the
 tibia', 'plantar flexion(ext), inversion(add)', 'sagittal plane,
-frontal plane');
+frontal plane'),
+
+('peroneus longus', 'ankle', 'Undersurfaces of the medial cuneiform and first metatarsal
+bones', 'Head and upper two-thirds of the lateral surface of
+the fibula', 'plantar flexion(ext), eversion(abd)', 'sagittal plane, frontal plane'),
+
+('peroneus brevis', 'ankle', 'Tuberosity of the fifth metatarsal',
+'Mid to lower two-thirds of the lateral surface of the fibula',
+'plantar flexion(ext), eversion(abd)', 'sagittal plane, frontal plane'),
+
+('tibialis posterior', 'ankle', 
+'Inferior surfaces of the navicular, cuneiform, and
+cuboid bones and bases of the second, third, and
+fourth metatarsal bones', 'Posterior surface of the upper half of the interosseus
+membrane and adjacent surfaces of the tibia and fibula',
+'plantar flexion(ext), inversion(add)',
+ 'sagittal plane, frontal plane');
 
 
 
