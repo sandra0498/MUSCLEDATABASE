@@ -95,7 +95,60 @@ lateral surface
 of the tibia','dorsiflexion', 'sagittal plane'),
 
 ('peroneus tertius', 'ankle', 'Superior aspect of the base of the
- fifth metatarsal','Distal third of the anterior fibula', 'dorsiflexion', 'sagittal plane' );
+ fifth metatarsal','Distal third of the anterior fibula', 'dorsiflexion', 'sagittal plane' ),
+
+('extensor hallucis longus', 'ankle', 'Top of the base of the distal phalanx 
+of the great toe', 'Middle two-thirds of the medial surface of the anterior
+fibula','dorsiflexion', 'sagittal plane'),
+
+('extensor digitorum longus', 'ankle', 'Tops of the middle and distal phalanxes of the four
+lesser toes', 'Lateral condyle of the tibia, head of the fibula, and
+upper two-thirds of the anterior surface of the fibula', 'dorsiflexion, eversion(abd)', 
+ 'sagittal plane, frontal plane'),
+
+('gastrocnemius', 'ankle, knee', 'Posterior
+surface of the calcaneus (Achilles tendon)', 'Medial head:
+posterior
+surface of the
+medial femoral
+condyle;
+Lateral head:
+posterior
+surface of the
+lateral femoral
+condyle', 'plantar flexion(ext), inversion(add), flexion', 'sagittal plane, frontal plane'),
+
+('soleus', 'ankle', 'Posterior
+surface of
+the calcaneus
+(Achilles
+tendon)','Posterior
+surface of
+the proximal
+fibula and
+proximal
+two-third of
+the posterior
+tibial surface', 'plantar flexion(ext), inversion(add)',
+ 'sagittal plane, frontal plane'),
+
+
+('flexor hallucis longus', 'ankle','Base of the distal phalanx 
+of the great toe, plantar surface', 'Middle two-thirds of the posterior surface of the fibula',
+'plantar flexion(ext), inversion(add)', 'sagittal plane, frontal plane' ),
+
+
+('flexor digitorum longus', 'ankle', 'Base of the
+distal phalanx
+of each of the
+four lesser
+toes', 'Middle one-third
+of the
+posterior
+surface of the
+tibia', 'plantar flexion(ext), inversion(add)', 'sagittal plane,
+frontal plane');
+
 
 
 
@@ -104,6 +157,3 @@ select * from MUSCLE ;
 
 
 INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
-
-
-
