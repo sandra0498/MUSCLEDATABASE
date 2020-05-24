@@ -173,3 +173,4 @@ select * from MUSCLE ;
 
 
 INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
+('plantaris');
