@@ -35,7 +35,7 @@ of lower six ribs,
 lumbar fascia', 'lumbar flexion', 'sagittal plane'), 
 
 
-('latissimus dorsi', 'spine', 'Medial lip of
+('latissimus dorsi', 'spine, shoulder', 'Medial lip of
 intertubercular
 groove of humerus', 'Posterior crest of
 ilium, back of sacrum
@@ -43,7 +43,10 @@ and spinous processes
 of lumbar and lower
 six thoracic vertebrae,
 slips from lower
-three ribs', 'lumbar extension', 'sagittal plane'),
+three ribs', 'lumbar extension, extension, adduction, 
+internal rotation, horizontal abduction',
+ 'sagittal plane, frontal plane, transverse plane')
+,
 
 
 ('longissimus', 'spine','cervical 2–6 spinous processes, thoracic
