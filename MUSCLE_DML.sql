@@ -55,7 +55,8 @@ process', 'medial iliac crest, thoracolumbar
 aponeurosis from sacrum, lumbar 1–5 transverse
 processes and thoracic 1–5 transverse processes,
 cervical
-5–7 articular processes', 'lumbar extension', 'sagittal plane' ),
+5–7 articular processes',
+ 'lumbar extension, lumbar lateral flexion (L)', 'sagittal plane, frontal plane' ), 
 
 ('transversospinalis', 'spine', ' Spinous processes above and occipital bone (only semispinalis capitis part shown)',
 'Transverse processes', 'lumbar extension', 'sagittal plane'), 
