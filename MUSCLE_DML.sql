@@ -18,7 +18,9 @@ of chest, dovetailing with serratus anterior muscle', 'lumbar flexion', 'sagitta
 of eighth, ninth,
 and tenth ribs, linea
 alba', 'Upper half of inguinal ligament, anterior twothirds
-of crest of ilium, lumbar fascia', 'lumbar flexion', 'sagittal plane'),
+of crest of ilium, lumbar fascia', 'lumbar flexion, 
+lumbar lateral flexion(L)(R), ipsilateral lumbar rotation', 
+'sagittal plane, frontal plane, transverse plane'),
 
 ('transversus abdominis', 'spine', 'Crest of pubis,
 iliopectineal line,
