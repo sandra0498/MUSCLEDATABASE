@@ -248,7 +248,39 @@ femur', 'flexion, internal rotation',
 ('rectus femoris', 'knee, hip, pelvis', 'Superior aspect of the patella and patellar tendon to
 the tibial tuberosity', 'Anterior inferior iliac spine of the ilium and groove
 (posterior) above the acetabulum', 'extension, flexion, abduction, anterior tilt',
-'sagittal plane, frontal plane');
+'sagittal plane, frontal plane'),
+
+('vastus medialis','knee', 'Medial half of the upper border of the patella and
+patellar tendon to the tibial tuberosity', 'Whole length of the linea aspera and the medial condyloid
+ridge', 'extension', 'sagittal plane'),
+
+('vastus intermedius', 'knee', 'Upper
+border of
+the patella
+and patellar
+tendon
+to tibial
+tuberosity', 'Upper two-third
+of anterior surface
+of femur', 'extension', 'sagittal plane'),
+
+('vastus lateralis', 'knee', 'Lateral
+border of
+the patella
+and patellar
+tendon
+to tibial
+tuberosity', 'Intertrochanteric
+line, anterior and
+inferior borders
+of the greater
+trochanter,
+gluteal tuberosity,
+upper half of
+the linea aspera,
+and entire lateral
+intermuscular
+septum', 'extension', 'sagittal plane');
 
 
 
