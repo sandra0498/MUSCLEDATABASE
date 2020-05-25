@@ -101,7 +101,8 @@ lateral surface
 of the tibia','dorsiflexion', 'sagittal plane'),
 
 ('peroneus tertius', 'ankle', 'Superior aspect of the base of the
- fifth metatarsal','Distal third of the anterior fibula', 'dorsiflexion', 'sagittal plane' ),
+ fifth metatarsal','Distal third of the anterior fibula', 'dorsiflexion, eversion(abd)',
+ 'sagittal plane, frontal plane' ),
 
 ('extensor hallucis longus', 'ankle', 'Top of the base of the distal phalanx 
 of the great toe', 'Middle two-thirds of the medial surface of the anterior
@@ -173,7 +174,23 @@ membrane and adjacent surfaces of the tibia and fibula',
 
 ('plantaris', 'ankle', ' Tendo calcaneus 
 (medial side, deep to gastrocnemius tendon)', ' Lateral supracondylar ridge
- of femur above lateral head of gastrocnemius', 'plantar flexion(ext)', 'sagittal plane');
+ of femur above lateral head of gastrocnemius', 'plantar flexion(ext)', 'sagittal plane'),
+
+('biceps femoris', 'knee, hip, pelvis', 'Head of the
+fibula and lateral
+condyle of
+the tibia', 'Long head:
+ischial
+tuberosity.
+Short head:
+lower half
+of the linea
+aspera,
+and lateral
+condyloid
+ridge', 'flexion,
+ external rotation, extension, posterior tilt',
+'sagittal plane, transverse plane' );
 
 
 
