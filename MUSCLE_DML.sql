@@ -169,7 +169,11 @@ cuboid bones and bases of the second, third, and
 fourth metatarsal bones', 'Posterior surface of the upper half of the interosseus
 membrane and adjacent surfaces of the tibia and fibula',
 'plantar flexion(ext), inversion(add)',
- 'sagittal plane, frontal plane');
+ 'sagittal plane, frontal plane'),
+
+('plantaris', 'ankle', ' Tendo calcaneus 
+(medial side, deep to gastrocnemius tendon)', ' Lateral supracondylar ridge
+ of femur above lateral head of gastrocnemius', 'plantar flexion(ext)', 'sagittal plane');
 
 
 
@@ -179,4 +183,3 @@ select * from MUSCLE ;
 
 
 INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
-('plantaris');
