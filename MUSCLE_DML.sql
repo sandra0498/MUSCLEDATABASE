@@ -226,6 +226,23 @@ the spine',
  'flexion, internal rotation,
  abduction, external rotation, anterior tilt, ipsilateral tilt,
 contralateral tilt', 
+'sagittal plane, frontal plane, transverse plane'),
+
+('popliteus', 'knee','Upper
+posterior
+medial
+surface of
+tibia', 'Posterior
+surface
+of lateral
+condyle of
+femur', 'flexion, internal rotation',
+ 'sagittal plane, transverse plane' ),
+
+('tensor fascia latae', 'knee, hip, pelvis',
+ 'Iliotibial tract', 'Outer lip of anterior iliac crest,
+ Anterior superior iliac spine (ASIS)', 
+'flexion, extension, internal rotation, anterior tilt, ipsilateral tilt', 
 'sagittal plane, frontal plane, transverse plane');
 
 
@@ -236,4 +253,3 @@ select * from MUSCLE ;
 
 
 INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
-('popliteus', 'knee', );
