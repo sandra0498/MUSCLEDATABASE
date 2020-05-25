@@ -243,7 +243,12 @@ femur', 'flexion, internal rotation',
  'Iliotibial tract', 'Outer lip of anterior iliac crest,
  Anterior superior iliac spine (ASIS)', 
 'flexion, extension, internal rotation, anterior tilt, ipsilateral tilt', 
-'sagittal plane, frontal plane, transverse plane');
+'sagittal plane, frontal plane, transverse plane'),
+
+('rectus femoris', 'knee, hip, pelvis', 'Superior aspect of the patella and patellar tendon to
+the tibial tuberosity', 'Anterior inferior iliac spine of the ilium and groove
+(posterior) above the acetabulum', 'extension, flexion, abduction, anterior tilt',
+'sagittal plane, frontal plane');
 
 
 
