@@ -190,7 +190,43 @@ and lateral
 condyloid
 ridge', 'flexion,
  external rotation, extension, posterior tilt',
-'sagittal plane, transverse plane' );
+'sagittal plane, transverse plane' ), 
+
+('semitendinosus', 'knee, hip', 'Upper anterior
+medial surface
+of the tibia
+just below the
+condyle', 'Ischial
+tuberosity', 'flexion, extension', 'sagittal plane'),
+
+('semimembranosus','knee, hip, pelvis', 'Posteromedial
+surface of the
+medial tibial
+condyle', 'Ischial
+tuberosity', 'flexion, extension,
+ internal rotation, posterior tilt',
+ 'sagittal plane, transverse plane'),
+
+('gracilis', 'knee, hip, pelvis', 'Anterior medial surface of the tibia just below the
+condyle', 'Anteromedial edge of the descending ramus of the
+pubis', 'flexion, internal rotation,
+ adduction, anterior tilt,
+ contralateral tilt, ipsilateral rotation', 'sagittal plane,
+frontal plane, transverse plane'),
+
+('sartorius','knee, hip, pelvis', 'Anterior medial
+surface of the
+tibia just below
+the condyle', 'Anterior
+superior
+iliac spine
+and notch
+just below
+the spine',
+ 'flexion, internal rotation,
+ abduction, external rotation, anterior tilt, ipsilateral tilt,
+contralateral tilt', 
+'sagittal plane, frontal plane, transverse plane');
 
 
 
@@ -200,3 +236,4 @@ select * from MUSCLE ;
 
 
 INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
+('popliteus', 'knee', );
