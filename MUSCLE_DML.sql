@@ -510,7 +510,16 @@ proximal one-fourth of the lateral ulna',
 
 ('pronator quadratus', 'elbow', 'Distal fourth of the anterior side of the radius',
 'Distal fourth of the anterior side of the ulna',
- 'pronation(RU)', 'transverse plane');
+ 'pronation(RU)', 'transverse plane'),
+
+('anterior deltoid','shoulder', 'Deltoid tuberosity on the lateral humerus',
+'anterior lateral third of the clavicle',
+ 'flexion, internal rotation, horizontal adduction',
+ 'sagittal plane, transverse plane'),
+
+('coracobrachialis', 'shoulder', 'Middle of the medial border of the humeral shaft',
+'Coracoid process of the scapula', 'flexion, adduction, horizontal adduction',
+ 'sagittal plane, frontal plane, transverse plane');
 
 
 
