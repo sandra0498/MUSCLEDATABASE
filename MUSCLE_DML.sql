@@ -501,7 +501,16 @@ head', 'elbow', 'Olecranon
 process of
 the ulna', 'Distal 2/3 of the
 posterior surface
-of the humerus', 'extension', 'sagittal plane');
+of the humerus', 'extension', 'sagittal plane'),
+
+('anconeus', 'elbow', 'Posterior surface of the lateral olecranon process and
+proximal one-fourth of the lateral ulna',
+ 'Posterior surface of the lateral condyle of the humerus',
+'extension', 'sagittal plane'),
+
+('pronator quadratus', 'elbow', 'Distal fourth of the anterior side of the radius',
+'Distal fourth of the anterior side of the ulna',
+ 'pronation(RU)', 'transverse plane');
 
 
 
