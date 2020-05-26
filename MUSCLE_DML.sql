@@ -468,7 +468,40 @@ fossa', 'supination (RU)', 'transverse plane'),
 ('brachioradialis', 'elbow', 'Lateral surface of the distal end of the radius at the
 styloid process', 'Distal two-thirds of the lateral supracondylar ridge of
 the humerus', 'flexion, supination(RU), pronation(RU)',
-'sagittal plane, transverse plane');
+'sagittal plane, transverse plane'),
+
+('supinator', 'elbow', 'Lateral surface of the proximal radius just below the
+head', 'Lateral epicondyle of the humerus and neighboring
+posterior part of the ulna', 'flexion, supination(RU)', 
+'sagittal plane, transverse plane'),
+
+('pronator teres', 'elbow', 'Middle third of the lateral surface of the radius',
+'Distal part of the medial supracondylar ridge of the
+humerus and medial side of the proximal ulna',
+ 'flexion, pronation(RU)', 'sagittal plane, transverse plane'),
+
+('triceps brachii long
+head', 'elbow', 'Olecranon
+process of
+the ulna', 'Infraglenoid
+tubercle below
+inferior lip of glenoid
+fossa of the
+scapula', 'extension', 'sagittal plane'),
+
+('triceps brachii lateral
+head', 'elbow', 'Olecranon
+process of
+the ulna', 'Upper half of the
+posterior surface
+of the humerus', 'extension', 'sagittal plane'),
+
+('triceps brachii medial
+head', 'elbow', 'Olecranon
+process of
+the ulna', 'Distal 2/3 of the
+posterior surface
+of the humerus', 'extension', 'sagittal plane');
 
 
 
