@@ -3,7 +3,7 @@ INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, 
 ('psoas major', 'spine', 'Lesser trochanter of femur and shaft','Lower borders of the
 transverse processes of lumbar vertebrae','lumbar flexion' ,'sagittal plane'),
 
-('rectus abdominis', 'spine', 'Cartilage of
+('rectus abdominis', 'spine, pelvis', 'Cartilage of
 fifth, sixth, and seventh ribs, xiphoid process','Crest of pubis' , 'lumbar flexion', 'sagittal plane' ),
 
 ('external oblique', 'spine', 'Anterior half of crest
@@ -351,7 +351,126 @@ below the
 origin of
 the adductor
 longus', 'adduction, external rotation, anterior tilt',
-'sagittal plane, frontal plane, transverse plane' );
+'sagittal plane, frontal plane, transverse plane' ),
+
+('gluteus medius','hip, pelvis', 'Posterior and
+middle surfaces
+of the greater
+trochanter of
+the femur', 'Lateral surface
+of the
+ilium just
+below the
+crest', 'abduction, internal rotation, 
+external rotation, ipsilateral tilt/rotation, contralateral rotation',
+'frontal plane, transverse plane' ),
+
+('gluteus minimus', 'hip, pelvis', 'Anterior surface
+of the greater
+trochanter of
+the femur', 'Lateral surface
+of the
+ilium just
+below the
+origin of
+the gluteus
+medius', 'abduction, internal rotation, 
+anterior tilt, ipsilateral tilt/rotation',
+ 'sagittal plane, frontal plane, transverse plane'),
+
+('piriformis', 'hip', 'Superior and
+posterior aspect
+of the greater
+trochanter', 'Anterior
+sacrum,
+posterior
+portions of
+the ischium,
+and obturator
+foramen', 'external rotation', 'transverse plane'),
+
+('gemellus superior', 'hip', 'Posterior aspect
+of the greater
+trochanter
+immediately
+below piriformis', 'Ischial spine', 
+'external rotation', 'transverse plane'),
+
+('gemellus inferior', 'hip', 'Posterior aspect
+of the greater
+trochanter
+with obturator
+internus', 'Ischial
+tuberosity', 'external rotation', 'transverse plane'),
+
+('obturator externus','hip', 'Posterior aspect
+of the greater
+trochanter
+immediately
+below obturator
+internus', 'Inferior margin
+of obturator
+foramen', 'external rotation', 'transverse plane' ),
+
+('obturator internus','hip', 'Posterior aspect
+of the greater
+trochanter
+with gamellus
+superior', 'Margin of
+obturator
+foramen', 'external rotation', 'transverse plane'),
+
+('quadratus femoris', 'hip', 'Intertrochanteric
+ridge of
+femur', 'Ischial
+tuberosity', 'external rotation', 'transverse plane'),
+
+
+('iliocostalis', 'pelvis', 'Posterior
+ribs 1–12,
+cervical 4–7
+transverse
+processes', 'Medial iliac crest,
+thoracolumbar
+aponeurosis from
+sacrum, posterior
+ribs 3–12', 'anterior tilt', 'sagittal plane'),
+
+('biceps brachii (Short head)','elbow', 'Tuberosity
+of the radius
+and bicipital
+aponeurosis
+(lacertus
+fibrosis)', 'Coracoid process
+of the scapula
+and upper lip of
+the glenoid fossa
+in conjunction
+with the proximal
+attachment of the
+coracobrachialis', 'flexion', 'sagittal plane' ),
+
+('biceps brachii (long head)', 'elbow', 'Tuberosity
+of the radius
+and bicipital
+aponeurosis
+(lacertus
+fibrosis)', 'Supraglenoid
+tubercle above
+the superior lip
+of the glenoid
+fossa', 'supination (RU)', 'transverse plane'),
+
+('brachialis', 'elbow', 'Coronoid process of the ulna',
+'Distal half of the anterior shaft of the humerus', 'flexion',
+'sagittal plane'),
+
+('brachioradialis', 'elbow', 'Lateral surface of the distal end of the radius at the
+styloid process', 'Distal two-thirds of the lateral supracondylar ridge of
+the humerus', 'flexion, supination(RU), pronation(RU)',
+'sagittal plane, transverse plane');
+
+
 
 
 
@@ -361,5 +480,3 @@ select * from MUSCLE ;
 
 
 INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
-
-
