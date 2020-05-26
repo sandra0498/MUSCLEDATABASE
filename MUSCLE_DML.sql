@@ -294,7 +294,64 @@ the linea aspera', 'Anterior
 pubis just
 below its
 crest', 'flexion, adduction, anterior tilt',
- 'sagittal plane, frontal plane');
+ 'sagittal plane, frontal plane'),
+
+('pectineus', 'hip, pelvis', 'Rough line leading
+from the
+lesser trochanter
+down to the
+linea aspera', 'Space 1
+inch wide
+on the front
+of the pubis
+just above
+the crest',
+ 'flexion, adduction, internal rotation,
+ anterior tilt, contralateral tilt, ipsilateral tilt',
+'sagittal plane, frontal plane, transverse tilt'),
+
+('gluteus maximus', 'hip, pelvis', 'Oblique ridge
+on the lateral
+surface of the
+greater trochanter
+and the
+iliotibial band of
+the fasciae latae', 'Posterior
+1/4 of the
+crest of the
+ilium, posterior
+surface
+of the
+sacrum and
+coccyx near
+the ilium,
+and fascia
+of the lumbar
+area', 'extension, adduction, abduction, external rotation,
+posterior tilt, ipsilateral tilt, contralateral tilt/rotation',
+'sagittal plane, frontal plane, transverse plane'),
+
+('adductor magnus', 'hip, pelvis', 'Whole length of the linea aspera, medial condyloid
+ridge, and adductor tubercle', 'Edge of the entire ramus of the pubis and the ischium
+and ischial tuberosity','extension, adduction, internal rotation, 
+external rotation, anterior tilt, posterior tilt',
+ 'sagittal plane, frontal plane, transverse plane'),
+
+('adductor brevis','hip, pelvis', 'Lower 2/3 of
+the pectineal
+line of the
+femur and the
+upper half of
+the medial lip of
+the linea aspera', 'Front of
+the inferior
+pubic
+ramus just
+below the
+origin of
+the adductor
+longus', 'adduction, external rotation, anterior tilt',
+'sagittal plane, frontal plane, transverse plane' );
 
 
 
@@ -304,3 +361,5 @@ select * from MUSCLE ;
 
 
 INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
+
+
