@@ -280,7 +280,21 @@ upper half of
 the linea aspera,
 and entire lateral
 intermuscular
-septum', 'extension', 'sagittal plane');
+septum', 'extension', 'sagittal plane'),
+
+('iliacus', 'hip', 'Lesser
+trochanter of
+the femur and
+shaft just below', 'Inner surface
+of the
+ilium', 'flexion', 'sagittal plane'),
+
+('adductor longus', 'hip, pelvis', 'Middle 1/3 of
+the linea aspera', 'Anterior
+pubis just
+below its
+crest', 'flexion, adduction, anterior tilt',
+ 'sagittal plane, frontal plane');
 
 
 
