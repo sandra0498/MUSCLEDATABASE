@@ -519,7 +519,39 @@ proximal one-fourth of the lateral ulna',
 
 ('coracobrachialis', 'shoulder', 'Middle of the medial border of the humeral shaft',
 'Coracoid process of the scapula', 'flexion, adduction, horizontal adduction',
- 'sagittal plane, frontal plane, transverse plane');
+ 'sagittal plane, frontal plane, transverse plane'),
+
+('pectoralis major upper
+fibers', 'shoulder', 'Flat tendon
+2 or 3 inches
+wide to lateral
+lip of intertubercular
+groove of
+humerus', 'Medial half of
+anterior surface
+of clavicle', 'flexion, abduction, internal rotation,
+ horizontal adduction', 'sagittal plane,
+ frontal plane, transverse plane'),
+
+('pectoralis major lower
+fibers', 'shoulder', 'Flat tendon
+2 or 3 inches
+wide to
+lateral lip of
+intertubercular
+groove of
+humerus', 'Anterior
+surface of
+costal cartilages
+of first six ribs,
+and adjoining
+portion of
+sternum', 'extension, adduction',
+'sagittal plane, frontal plane' ),
+
+('posterior deltoid','shoulder', 'Deltoid tuberosity on the lateral humerus',
+'inferior edge of the spine of the scapula', 'extension, external rotation',
+'sagittal plane, transverse plane');
 
 
 
