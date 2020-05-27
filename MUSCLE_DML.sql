@@ -592,7 +592,9 @@ length of the
 medial border
 of the scapula', 'Surface of the
 upper 9 ribs at the
-side of the chest', 'protraction(abd)', 'sagittal plane'),
+side of the chest',
+ 'protraction(abd), elevation, upward rotation',
+ 'sagittal plane, frontal plane, transverse plane'),
 
 ('pec minor', 'scapula', 'Coracoid
 process of the
@@ -623,7 +625,35 @@ of 7th cervical and
 upper 3 thoracic
 vertebrae', 
 'retraction(add), upward rotation', 
-'sagittal plane, transverse plane');
+'sagittal plane, transverse plane'),
+
+('trapezius lower fibers', 'scapula', 'Triangular space
+at the base of
+the scapular
+spine', 'Spinous process of
+4th to 12th thoracic
+vertebrae',
+'retraction(add), depression, upward rotation',
+ 'sagittal plane, frontal plane, transverse plane'),
+
+('trapezius upper fibers', 'scapula','Posterior aspect
+of the lateral 3rd
+of the clavicle', 'Base of skull, occipital
+protuberance,
+and posterior ligaments
+of neck',
+'elevation, downward rotation',
+ 'frontal plane, transverse plane'),
+
+('levator scapulae', 'scapula', 'Medial border of
+the scapula from
+the superior
+angle to the
+scapular spine', 'Transverse processes
+of the upper
+4 cervical vertebrae', 
+'retraction(add), elevation, downward rotation',
+'sagittal plane, frontal plane, transverse plane');
 
 
 
@@ -634,7 +664,5 @@ vertebrae',
 select * from MUSCLE ;
 
 
-
-INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
-('trapezius'
-)
+-- 
+-- INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
