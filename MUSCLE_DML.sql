@@ -622,8 +622,8 @@ spine', 'Spinous process
 of 7th cervical and
 upper 3 thoracic
 vertebrae', 
-'retraction(add), depression, upward rotation', 
-'sagittal plane, frontal plane, transverse plane');
+'retraction(add), upward rotation', 
+'sagittal plane, transverse plane');
 
 
 
@@ -636,3 +636,5 @@ select * from MUSCLE ;
 
 
 INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
+('trapezius'
+)
