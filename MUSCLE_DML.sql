@@ -610,6 +610,19 @@ of the 7th cervical
 and first 5 thoracic
 vertebrae',
 'retraction(add), elevation, downward rotation', 
+'sagittal plane, frontal plane, transverse plane'),
+
+('trapezius middle
+fibers', 'scapula', 'Medial border
+of the acromion
+process and
+superior border
+of the scapular
+spine', 'Spinous process
+of 7th cervical and
+upper 3 thoracic
+vertebrae', 
+'retraction(add), depression, upward rotation', 
 'sagittal plane, frontal plane, transverse plane');
 
 
