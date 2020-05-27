@@ -550,8 +550,41 @@ sternum', 'extension, adduction',
 'sagittal plane, frontal plane' ),
 
 ('posterior deltoid','shoulder', 'Deltoid tuberosity on the lateral humerus',
-'inferior edge of the spine of the scapula', 'extension, external rotation',
-'sagittal plane, transverse plane');
+'inferior edge of the spine of the scapula', 
+'extension, external rotation, abduction, horizontal abduction',
+'sagittal plane, transverse plane'),
+
+('teres major', 'shoulder', 'Medial lip of the intertubercular groove of the
+humerus just posterior to the insertion of the latissimus
+dorsi', 'Posteriorly on the inferior third of the lateral border of
+the scapula and just superior to the inferior angle',
+ 'extension, adduction, internal rotation',
+ 'sagittal plane, frontal plane, transverse plane'),
+
+('subscapularis', 'shoulder', 'Lesser tubercle of the humerus',
+'Entire anterior surface of the subscapular fossa',
+'extension, adduction, internal rotation',
+'sagittal plane, frontal plane, transverse plane' ),
+
+('teres minor', 'shoulder', 'Posteriorly on the greater tubercle of the humerus',
+'Posteriorly on the upper and middle aspect of the lateral
+border of the scapula',
+ 'adduction, external rotation, horizontal abduction',
+'frontal plane, transverse plane'),
+
+('infraspinatus', 'shoulder', 'Greater tubercle on posterior side of the humerus',
+'Posterior surface of scapula below spine',
+ 'adduction, abduction, external rotation, horizontal abduction',
+'frontal plane, transverse plane'),
+
+('supraspinatus', 'shoulder', 'Superiorly on the greater tubercle of the humerus',
+'Medial two-thirds of the supraspinous fossa',
+ 'abduction', 'frontal plane'),
+
+('middle deltoid', 'shoulder', 'Deltoid
+tuberosity on
+lateral humerus', 'Lateral aspect
+of acromion', 'horizontal abduction', 'transverse plane');
 
 
 
@@ -563,3 +596,4 @@ select * from MUSCLE ;
 
 
 INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
+
