@@ -584,7 +584,34 @@ border of the scapula',
 ('middle deltoid', 'shoulder', 'Deltoid
 tuberosity on
 lateral humerus', 'Lateral aspect
-of acromion', 'horizontal abduction', 'transverse plane');
+of acromion', 'horizontal abduction', 'transverse plane'),
+
+('serratus anterior', 'scapula','Anterior aspect
+of the whole
+length of the
+medial border
+of the scapula', 'Surface of the
+upper 9 ribs at the
+side of the chest', 'protraction(abd)', 'sagittal plane'),
+
+('pec minor', 'scapula', 'Coracoid
+process of the
+scapula', 'Anterior surfaces
+of the 3rd to 5th
+ribs',
+'protraction(abd), depression, downward rotation',
+'sagittal plane, frontal plane, transverse plane'),
+
+('rhomboids', 'scapula', 'Medial border
+of the scapula,
+inferior to the
+scapular spine', 'Spinous processes
+of the 7th cervical
+and first 5 thoracic
+vertebrae',
+'retraction(add), elevation, downward rotation', 
+'sagittal plane, frontal plane, transverse plane');
+
 
 
 
@@ -596,4 +623,3 @@ select * from MUSCLE ;
 
 
 INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
-
