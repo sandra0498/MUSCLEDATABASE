@@ -660,7 +660,7 @@ of the upper
 
 
 
-
+--display all the information from the database
 select * from MUSCLE ;
 
 
