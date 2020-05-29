@@ -105,9 +105,12 @@ of the tibia','dorsiflexion, inversion(add)',
  fifth metatarsal','Distal third of the anterior fibula', 'dorsiflexion, eversion(abd)',
  'sagittal plane, frontal plane' ),
 
+
 ('extensor hallucis longus', 'ankle', 'Top of the base of the distal phalanx 
 of the great toe', 'Middle two-thirds of the medial surface of the anterior
 fibula','dorsiflexion', 'sagittal plane'),
+
+
 
 ('extensor digitorum longus', 'ankle', 'Tops of the middle and distal phalanxes of the four
 lesser toes', 'Lateral condyle of the tibia, head of the fibula, and
