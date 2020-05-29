@@ -1,10 +1,11 @@
 
 INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
-('psoas major', 'spine', 'Lesser trochanter of femur and shaft','Lower borders of the
+('psoas major', 'spine, hip, pelvis', 'Lesser trochanter of femur and shaft','Lower borders of the
 transverse processes of lumbar vertebrae','lumbar flexion' ,'sagittal plane'),
 
 ('rectus abdominis', 'spine, pelvis', 'Cartilage of
-fifth, sixth, and seventh ribs, xiphoid process','Crest of pubis' , 'lumbar flexion', 'sagittal plane' ),
+fifth, sixth, and seventh ribs, xiphoid process','Crest of pubis' , 'lumbar flexion',
+ 'sagittal plane, frontal plane' ),
 
 ('external oblique', 'spine', 'Anterior half of crest
 of ilium, inguinal
@@ -12,7 +13,8 @@ ligament, crest of
 pubis, fascia of
 rectus abdominis
 m. at lower front', 'Borders of lower eight ribs at side
-of chest, dovetailing with serratus anterior muscle', 'lumbar flexion', 'sagittal plane'),
+of chest, dovetailing with serratus anterior muscle', 'lumbar flexion',
+ 'sagittal plane, frontal plane, transverse plane'),
 
 ('internal oblique', 'spine','Costal cartilages
 of eighth, ninth,
