@@ -5,7 +5,8 @@ transverse processes of lumbar vertebrae',
 'lumbar flexion, flexion, anterior tilt' ,'sagittal plane'),
 
 ('rectus abdominis', 'spine, pelvis', 'Cartilage of
-fifth, sixth, and seventh ribs, xiphoid process','Crest of pubis' , 'lumbar flexion',
+fifth, sixth, and seventh ribs, xiphoid process','Crest of pubis' ,
+ 'lumbar flexion, lumbar lateral flexion(L)(R), posterior tilt',
  'sagittal plane, frontal plane' ),
 
 ('external oblique', 'spine', 'Anterior half of crest
@@ -14,7 +15,8 @@ ligament, crest of
 pubis, fascia of
 rectus abdominis
 m. at lower front', 'Borders of lower eight ribs at side
-of chest, dovetailing with serratus anterior muscle', 'lumbar flexion',
+of chest, dovetailing with serratus anterior muscle',
+ 'lumbar flexion, lumbar lateral flexion(L)(R), contralateral lumbar rotation',
  'sagittal plane, frontal plane, transverse plane'),
 
 ('internal oblique', 'spine','Costal cartilages
