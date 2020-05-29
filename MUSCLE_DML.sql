@@ -108,7 +108,7 @@ of the tibia','dorsiflexion, inversion(add)',
 
 ('extensor hallucis longus', 'ankle', 'Top of the base of the distal phalanx 
 of the great toe', 'Middle two-thirds of the medial surface of the anterior
-fibula','dorsiflexion', 'sagittal plane'),
+fibula','dorsiflexion, inversion(add)', 'sagittal plane, frontal plane'),
 
 
 
@@ -116,6 +116,8 @@ fibula','dorsiflexion', 'sagittal plane'),
 lesser toes', 'Lateral condyle of the tibia, head of the fibula, and
 upper two-thirds of the anterior surface of the fibula', 'dorsiflexion, eversion(abd)', 
  'sagittal plane, frontal plane'),
+
+
 
 ('gastrocnemius', 'ankle, knee', 'Posterior
 surface of the calcaneus (Achilles tendon)', 'Medial head:
@@ -127,7 +129,10 @@ Lateral head:
 posterior
 surface of the
 lateral femoral
-condyle', 'plantar flexion(ext), inversion(add), flexion', 'sagittal plane, frontal plane'),
+condyle', 'plantar flexion(ext), inversion(add), flexion',
+ 'sagittal plane, frontal plane'),
+
+
 
 ('soleus', 'ankle', 'Posterior
 surface of
@@ -160,13 +165,18 @@ surface of the
 tibia', 'plantar flexion(ext), inversion(add)', 'sagittal plane,
 frontal plane'),
 
+
+
 ('peroneus longus', 'ankle', 'Undersurfaces of the medial cuneiform and first metatarsal
 bones', 'Head and upper two-thirds of the lateral surface of
 the fibula', 'plantar flexion(ext), eversion(abd)', 'sagittal plane, frontal plane'),
 
+
+
 ('peroneus brevis', 'ankle', 'Tuberosity of the fifth metatarsal',
 'Mid to lower two-thirds of the lateral surface of the fibula',
 'plantar flexion(ext), eversion(abd)', 'sagittal plane, frontal plane'),
+
 
 ('tibialis posterior', 'ankle', 
 'Inferior surfaces of the navicular, cuneiform, and
@@ -176,9 +186,12 @@ membrane and adjacent surfaces of the tibia and fibula',
 'plantar flexion(ext), inversion(add)',
  'sagittal plane, frontal plane'),
 
+
 ('plantaris', 'ankle', ' Tendo calcaneus 
 (medial side, deep to gastrocnemius tendon)', ' Lateral supracondylar ridge
  of femur above lateral head of gastrocnemius', 'plantar flexion(ext)', 'sagittal plane'),
+
+
 
 ('biceps femoris', 'knee, hip, pelvis', 'Head of the
 fibula and lateral
@@ -196,12 +209,17 @@ ridge', 'flexion,
  external rotation, extension, posterior tilt',
 'sagittal plane, transverse plane' ), 
 
-('semitendinosus', 'knee, hip', 'Upper anterior
+
+('semitendinosus', 'knee, hip, pelvis', 'Upper anterior
 medial surface
 of the tibia
 just below the
 condyle', 'Ischial
-tuberosity', 'flexion, extension', 'sagittal plane'),
+tuberosity',
+'flexion, extension, internal rotation, posterior tilt',
+ 'sagittal plane, transverse plane'),
+
+
 
 ('semimembranosus','knee, hip, pelvis', 'Posteromedial
 surface of the
@@ -211,12 +229,15 @@ tuberosity', 'flexion, extension,
  internal rotation, posterior tilt',
  'sagittal plane, transverse plane'),
 
+
+
 ('gracilis', 'knee, hip, pelvis', 'Anterior medial surface of the tibia just below the
 condyle', 'Anteromedial edge of the descending ramus of the
 pubis', 'flexion, internal rotation,
  adduction, anterior tilt,
  contralateral tilt, ipsilateral rotation', 'sagittal plane,
 frontal plane, transverse plane'),
+
 
 ('sartorius','knee, hip, pelvis', 'Anterior medial
 surface of the
@@ -232,6 +253,7 @@ the spine',
 contralateral tilt', 
 'sagittal plane, frontal plane, transverse plane'),
 
+
 ('popliteus', 'knee','Upper
 posterior
 medial
@@ -243,11 +265,14 @@ condyle of
 femur', 'flexion, internal rotation',
  'sagittal plane, transverse plane' ),
 
+
 ('tensor fascia latae', 'knee, hip, pelvis',
  'Iliotibial tract', 'Outer lip of anterior iliac crest,
  Anterior superior iliac spine (ASIS)', 
 'flexion, extension, internal rotation, anterior tilt, ipsilateral tilt', 
 'sagittal plane, frontal plane, transverse plane'),
+
+
 
 ('rectus femoris', 'knee, hip, pelvis', 'Superior aspect of the patella and patellar tendon to
 the tibial tuberosity', 'Anterior inferior iliac spine of the ilium and groove
