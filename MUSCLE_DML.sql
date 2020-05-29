@@ -50,8 +50,7 @@ six thoracic vertebrae,
 slips from lower
 three ribs', 'lumbar extension, extension, adduction, 
 internal rotation, horizontal abduction',
- 'sagittal plane, frontal plane, transverse plane')
-,
+ 'sagittal plane, frontal plane, transverse plane'),
 
 
 ('longissimus', 'spine','cervical 2–6 spinous processes, thoracic
@@ -61,7 +60,7 @@ aponeurosis from sacrum, lumbar 1–5 transverse
 processes and thoracic 1–5 transverse processes,
 cervical
 5–7 articular processes',
- 'lumbar extension, lumbar lateral flexion (L)', 'sagittal plane, frontal plane' ), 
+ 'lumbar extension, lumbar lateral flexion(L)', 'sagittal plane, frontal plane' ), 
 
 ('transversospinalis', 'spine', ' Spinous processes above and occipital bone (only semispinalis capitis part shown)',
 'Transverse processes', 'lumbar extension', 'sagittal plane'), 
@@ -76,7 +75,10 @@ twelfth rib and transverse
 process of the upper four
 lumbar vertebrae', 'Posterior
 inner lip of
-the iliac crest', 'lumbar extension', 'sagittal plane'),
+the iliac crest',
+'lumbar extension, lumbar lateral flexion (L),
+ contalateral lumbar rotation', 
+'sagittal plane, frontal plane, transverse plane'),
 
 ('multifidus', 'spine', 'Spinous processes of
 2nd, 3rd, or 4th vertebra
@@ -86,13 +88,7 @@ of lumbar, thoracic,
 and lower four cervical
 vertebrae', 'lumbar extension', 'sagittal plane'), 
 
-('longissimus', 'spine','cervical 2–6 spinous processes, thoracic
-1–12 transverse processes, lower nine ribs, mastoid
-process', 'medial iliac crest, thoracolumbar
-aponeurosis from sacrum, lumbar 1–5 transverse
-processes and thoracic 1–5 transverse processes,
-cervical
-5–7 articular processes', 'lumbar lateral flexion', 'frontal plane' ),
+
 
 ('tibialis anterior', 'ankle', 'Inner surface
 of the medial
