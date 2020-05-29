@@ -1,7 +1,8 @@
 
 INSERT INTO MUSCLE (muscleName, jointName, insertion, muscleOrigin, actionName, plane) values 
 ('psoas major', 'spine, hip, pelvis', 'Lesser trochanter of femur and shaft','Lower borders of the
-transverse processes of lumbar vertebrae','lumbar flexion' ,'sagittal plane'),
+transverse processes of lumbar vertebrae',
+'lumbar flexion, flexion, anterior tilt' ,'sagittal plane'),
 
 ('rectus abdominis', 'spine, pelvis', 'Cartilage of
 fifth, sixth, and seventh ribs, xiphoid process','Crest of pubis' , 'lumbar flexion',
