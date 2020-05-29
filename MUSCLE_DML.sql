@@ -89,7 +89,6 @@ and lower four cervical
 vertebrae', 'lumbar extension', 'sagittal plane'), 
 
 
-
 ('tibialis anterior', 'ankle', 'Inner surface
 of the medial
 cuneiform
@@ -99,7 +98,8 @@ metatarsal
 bone', 'Upper two-third
 of the
 lateral surface
-of the tibia','dorsiflexion', 'sagittal plane'),
+of the tibia','dorsiflexion, inversion(add)',
+ 'sagittal plane, frontal plane'),
 
 ('peroneus tertius', 'ankle', 'Superior aspect of the base of the
  fifth metatarsal','Distal third of the anterior fibula', 'dorsiflexion, eversion(abd)',
