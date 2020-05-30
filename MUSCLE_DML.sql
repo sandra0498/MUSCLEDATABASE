@@ -585,7 +585,7 @@ sternum', 'extension, adduction',
 ('posterior deltoid','shoulder', 'Deltoid tuberosity on the lateral humerus',
 'inferior edge of the spine of the scapula', 
 'extension, external rotation, abduction, horizontal abduction',
-'sagittal plane, transverse plane'),
+'sagittal plane, frontal plane, transverse plane'),
 
 ('teres major', 'shoulder', 'Medial lip of the intertubercular groove of the
 humerus just posterior to the insertion of the latissimus
