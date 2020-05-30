@@ -267,9 +267,10 @@ femur', 'flexion, internal rotation',
 
 
 ('tensor fascia latae', 'knee, hip, pelvis',
- 'Iliotibial tract', 'Outer lip of anterior iliac crest,
- Anterior superior iliac spine (ASIS)', 
-'flexion, extension, internal rotation, anterior tilt, ipsilateral tilt', 
+ 'One-fourth of the way down the thigh into the iliotibial tract,
+ which in turn inserts onto Gerdy’s tubercle of the anterolateral tibial condyle',
+ 'Anterior iliac crest and surface of the ilium just below the crest', 
+'flexion, extension, abduction, internal rotation, anterior tilt, ipsilateral tilt', 
 'sagittal plane, frontal plane, transverse plane'),
 
 
@@ -280,43 +281,31 @@ the tibial tuberosity', 'Anterior inferior iliac spine of the ilium and groove
 'sagittal plane, frontal plane'),
 
 ('vastus medialis','knee', 'Medial half of the upper border of the patella and
-patellar tendon to the tibial tuberosity', 'Whole length of the linea aspera and the medial condyloid
+patellar tendon to the tibial tuberosity', 
+'Whole length of the linea aspera and the medial condyloid
 ridge', 'extension', 'sagittal plane'),
 
-('vastus intermedius', 'knee', 'Upper
-border of
-the patella
-and patellar
-tendon
-to tibial
-tuberosity', 'Upper two-third
-of anterior surface
-of femur', 'extension', 'sagittal plane'),
+('vastus intermedius', 'knee', 'Upper border of the patella
+and patellar tendon to tibial tuberosity', 
+'Upper two-third of anterior surface of femur',
+ 'extension', 'sagittal plane'),
 
 ('vastus lateralis', 'knee', 'Lateral
-border of
-the patella
-and patellar
-tendon
-to tibial
-tuberosity', 'Intertrochanteric
-line, anterior and
-inferior borders
-of the greater
-trochanter,
-gluteal tuberosity,
-upper half of
-the linea aspera,
-and entire lateral
-intermuscular
-septum', 'extension', 'sagittal plane'),
+border of the patella and patellar tendon
+to tibial tuberosity',
+ 'Intertrochanteric line, anterior and
+inferior borders of the greater trochanter,
+gluteal tuberosity, upper half of the linea aspera,
+and entire lateral intermuscular septum',
+ 'extension', 'sagittal plane'),
 
-('iliacus', 'hip', 'Lesser
+('iliacus', 'hip, pelvis', 'Lesser
 trochanter of
 the femur and
 shaft just below', 'Inner surface
 of the
-ilium', 'flexion', 'sagittal plane'),
+ilium',
+ 'flexion, anterior tilt', 'sagittal plane'),
 
 ('adductor longus', 'hip, pelvis', 'Middle 1/3 of
 the linea aspera', 'Anterior
@@ -356,15 +345,18 @@ coccyx near
 the ilium,
 and fascia
 of the lumbar
-area', 'extension, adduction, abduction, external rotation,
+area',
+'extension, adduction, abduction, external rotation,
 posterior tilt, ipsilateral tilt, contralateral tilt/rotation',
 'sagittal plane, frontal plane, transverse plane'),
 
 ('adductor magnus', 'hip, pelvis', 'Whole length of the linea aspera, medial condyloid
 ridge, and adductor tubercle', 'Edge of the entire ramus of the pubis and the ischium
-and ischial tuberosity','extension, adduction, internal rotation, 
+and ischial tuberosity',
+'extension, adduction, internal rotation, 
 external rotation, anterior tilt, posterior tilt',
  'sagittal plane, frontal plane, transverse plane'),
+
 
 ('adductor brevis','hip, pelvis', 'Lower 2/3 of
 the pectineal
@@ -382,6 +374,8 @@ the adductor
 longus', 'adduction, external rotation, anterior tilt',
 'sagittal plane, frontal plane, transverse plane' ),
 
+
+
 ('gluteus medius','hip, pelvis', 'Posterior and
 middle surfaces
 of the greater
@@ -393,6 +387,7 @@ below the
 crest', 'abduction, internal rotation, 
 external rotation, ipsilateral tilt/rotation, contralateral rotation',
 'frontal plane, transverse plane' ),
+
 
 ('gluteus minimus', 'hip, pelvis', 'Anterior surface
 of the greater
@@ -418,6 +413,8 @@ the ischium,
 and obturator
 foramen', 'external rotation', 'transverse plane'),
 
+
+
 ('gemellus superior', 'hip', 'Posterior aspect
 of the greater
 trochanter
@@ -425,12 +422,16 @@ immediately
 below piriformis', 'Ischial spine', 
 'external rotation', 'transverse plane'),
 
+
+
 ('gemellus inferior', 'hip', 'Posterior aspect
 of the greater
 trochanter
 with obturator
 internus', 'Ischial
 tuberosity', 'external rotation', 'transverse plane'),
+
+
 
 ('obturator externus','hip', 'Posterior aspect
 of the greater
@@ -441,6 +442,7 @@ internus', 'Inferior margin
 of obturator
 foramen', 'external rotation', 'transverse plane' ),
 
+
 ('obturator internus','hip', 'Posterior aspect
 of the greater
 trochanter
@@ -448,6 +450,8 @@ with gamellus
 superior', 'Margin of
 obturator
 foramen', 'external rotation', 'transverse plane'),
+
+
 
 ('quadratus femoris', 'hip', 'Intertrochanteric
 ridge of
